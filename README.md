@@ -1,4 +1,4 @@
-# Spor-Takip-Uygulamasi-
+# Spor Takip Uygulaması
 Python programlama dili ile geliştirilmiş bir kişisel spor takip sistemidir.
 
 ![spor giris](https://github.com/yemresener/Araba-Kiralama-Uygulamasi/assets/169056684/da4f9490-ec98-4c4b-a95c-b99459874c0e)
